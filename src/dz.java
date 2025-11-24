@@ -75,7 +75,7 @@ public class dz {
             } else if (monthNumber == 6 || monthNumber == 7 || monthNumber == 8) {
                 System.out.println(monthNumber + " лето");
             } else if (monthNumber == 9 || monthNumber == 10 || monthNumber == 11) {
-                System.out.println(monthNumber + " осень");
+                System.out.println(monthNumber + " осень ");
             }
         }
     }
