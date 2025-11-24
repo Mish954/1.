@@ -70,11 +70,11 @@ public class dz {
         } else {
             if (monthNumber == 12 || monthNumber == 1 || monthNumber == 2) {
                 System.out.println(monthNumber + " зима");
-            } else if (monthNumber == 3 || monthNumber == 4 || monthNumber == 5) {
+            }  if (monthNumber == 3 || monthNumber == 4 || monthNumber == 5) {
                 System.out.println(monthNumber + " весна");
-            } else if (monthNumber == 6 || monthNumber == 7 || monthNumber == 8) {
+            }  if (monthNumber == 6 || monthNumber == 7 || monthNumber == 8) {
                 System.out.println(monthNumber + " лето");
-            } else if (monthNumber == 9 || monthNumber == 10 || monthNumber == 11) {
+            }  if (monthNumber == 9 || monthNumber == 10 || monthNumber == 11) {
                 System.out.println(monthNumber + " осень");
             }
         }
